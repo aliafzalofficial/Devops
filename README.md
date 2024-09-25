@@ -1,2 +1,3 @@
-# Devops
+# Devops class project
+kindly do on time
 For educational purpose
